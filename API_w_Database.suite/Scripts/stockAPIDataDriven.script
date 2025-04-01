@@ -1,6 +1,5 @@
 ﻿put "UIo_1RtJx5xZDBTbW8msmgBRVOTBNKgA" into apiKey -- This key belongs to Dave Hester. Please replace with your own as called out in the README.doc
 
-
 put "https://api.polygon.io/v1/open-close/" into url
 
 // Create connection with Excel file or database

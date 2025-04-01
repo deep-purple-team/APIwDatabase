@@ -1,4 +1,4 @@
-﻿put "915e890793d14f84b9827d0532f086e5" into myAPI_Key
+﻿put "915e890793d14f84b9827d0532f086e5" into myAPI_Key -- This key belongs to Dave Hester. Please replace with your own as called out in the README.doc
 
 set myTargetDate to "2024-12-26"
 
