@@ -1,0 +1,52 @@
+﻿put "915e890793d14f84b9827d0532f086e5" into myAPI_Key
+
+set myTargetDate to "2024-12-26"
+
+Log "The target date is" && myTargetDate
+
+Put ("US", "DE", "GB") into myCountryCodeList
+Put formattedTime("%Y",myTargetDate) into myYear
+Put formattedTime("%m",myTargetDate) into myMonth
+Put formattedTime("%d",myTargetDate) into myDate
+
+Log "The queried country codes are" && myCountryCodeList
+
+Repeat with each item CountryCode of myCountryCodeList
+	
+	put merge("https://holidays.abstractapi.com/v1/?api_key=[[myAPI_Key]]&country=[[CountryCode]]&year=[[myYear]]&month=[[myMonth]]&day=[[myDate]]") into URL
+	
+	put (EmptyAPI(httpMethod:"GET",url:URL)) into myResponse
+	
+	put jsonvalue(api().responseBody) into myFormattedResponse
+	
+	put api().statusCode into myStatusCode
+	
+	if myStatusCode = "200" then
+		
+		LogSuccess "The call worked"
+		
+		Repeat with each item myCurrentResponse of myFormattedResponse
+			
+			if myCurrentResponse.country is not empty then
+				
+				Log !"The date [[myCurrentResponse.date]] is a [[myCurrentResponse.type]] holiday in [[myCurrentResponse.location]]. The holiday is [[myCurrentResponse.name]]."
+				set myCurrentResponse.IsHoliday to true
+				
+			else
+				
+				Log !"The date [[myCurrentResponse.date]] is a NOT a holiday in [[myCurrentResponse.location]]."
+				set myCurrentResponse.IsHoliday to false			
+				
+			end if
+			
+		End Repeat
+		
+	else
+		
+		LogWarning "The call didn't work."
+		
+	end if
+	
+	Wait 10
+	
+End Repeat

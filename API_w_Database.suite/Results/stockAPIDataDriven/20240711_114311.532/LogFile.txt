@@ -1,0 +1,6 @@
+﻿2024-07-11 11:43:11.600 -0400	START		Running stockAPIDataDriven.script
+2024-07-11 11:43:12.911 -0400	Log		{message:"Attempted to request today's data before end of day. Please upgrade your plan at https://polygon.io/pricing", request_id:"77fa1bc5387c6f2957cf2f03ebb90195", status:"NOT_AUTHORIZED"}	37	on_stockapidatadriven	stockAPIDataDriven.script
+2024-07-11 11:43:13.546 -0400	Log		{message:"Attempted to request today's data before end of day. Please upgrade your plan at https://polygon.io/pricing", request_id:"b2915138fb101bc5b61966671396856c", status:"NOT_AUTHORIZED"}	37	on_stockapidatadriven	stockAPIDataDriven.script
+2024-07-11 11:43:14.197 -0400	Log		{message:"Attempted to request today's data before end of day. Please upgrade your plan at https://polygon.io/pricing", request_id:"79707e2693052ae2a57080cf0219f8a9", status:"NOT_AUTHORIZED"}	37	on_stockapidatadriven	stockAPIDataDriven.script
+2024-07-11 11:43:14.440 -0400	EndTestCase		(Duration:"2.791", Errors:"0", Exceptions:"0", StartTime:"2024-07-11 11:43:11 -0400", Successes:"1", TestCase:"stockAPIDataDriven.script", Warnings:"0")
+2024-07-11 11:43:14.532 -0400	SUCCESS		Execution Time 0:00:02 stockAPIDataDriven.script

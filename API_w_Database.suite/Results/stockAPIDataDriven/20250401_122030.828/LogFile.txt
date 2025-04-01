@@ -1,0 +1,4 @@
+﻿2025-04-01 12:20:30.831 -0400	START		Running stockAPIDataDriven.script
+2025-04-01 12:20:44.476 -0400	Log		{afterHours:191.03, close:191.18, from:"2024-07-10", high:191.75, low:189.03, open:189.15, preMarket:189.8, status:"OK", symbol:"GOOGL", volume:15952454}	44	on_stockapidatadriven	stockAPIDataDriven.script
+2025-04-01 12:21:23.254 -0400	EndTestCase		(Duration:"52.421", Errors:"1", Exceptions:"0", StartTime:"2025-04-01 12:20:30 -0400", Successes:"0", TestCase:"stockAPIDataDriven.script", Warnings:"0")
+2025-04-01 12:21:23.266 -0400	ABORTED		Execution Time 0:00:52 stockAPIDataDriven.script

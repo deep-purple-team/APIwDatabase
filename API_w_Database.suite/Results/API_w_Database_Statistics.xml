@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="HolidaysByCountryViaAPI">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2025-04-01 12:49:42 -0400</FirstRun>
+  <LastRun>2025-04-01 12:49:42 -0400</LastRun>
+  <TotalTimeOnSuccess>31.320000</TotalTimeOnSuccess>
+ </script>
+ <script name="stockAPIDataDriven">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>18</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2022-02-18 09:54:00 -0500</FirstRun>
+  <LastRun>2025-04-01 13:21:54 -0400</LastRun>
+  <TotalTimeOnSuccess>98.415461</TotalTimeOnSuccess>
+ </script>
+ <script name="HolidaysByCountryViaAPI_v2">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2025-04-01 13:04:15 -0400</FirstRun>
+  <LastRun>2025-04-01 13:06:56 -0400</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="PolygonAPI-API">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2025-04-01 12:18:54 -0400</FirstRun>
+  <LastRun>2025-04-01 12:19:43 -0400</LastRun>
+  <TotalTimeOnSuccess>1.155000</TotalTimeOnSuccess>
+ </script>
+</statistics>

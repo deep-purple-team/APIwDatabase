@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running stockAPIDataDriven.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 12:18:26.238 -0400"
+			},
+		{
+				"message": "(Duration:\"25.835\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-04-01 12:18:26 -0400\", Successes:\"0\", TestCase:\"stockAPIDataDriven.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 12:18:52.076 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:25 stockAPIDataDriven.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-04-01 12:18:52.084 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 12:18:26.240 -0400"
+}

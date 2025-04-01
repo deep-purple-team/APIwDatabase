@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="PolygonAPI_apitest" package="API_w_Database.suite" timestamp="2025-04-01 12:19:43.754 -0400"
+ tests="1"  failures="0" errors="0" time="0.389000">
+  <properties>
+   <property name="RunDate" value="2025-04-01 12:19:43.754 -0400"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="PolygonAPI.apitest" assertions="1" status="success"  time="0.386">
+  </testcase>
+ </testsuite>
+</testsuites>

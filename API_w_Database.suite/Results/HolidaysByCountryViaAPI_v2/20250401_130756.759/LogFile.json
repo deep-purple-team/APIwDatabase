@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running HolidaysByCountryViaAPI_v2.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 13:07:56.763 -0400"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:07:56.804 -0400",
+				"message": "The target date is 2024-12-26",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:07:56.822 -0400",
+				"message": "The queried country codes are [\"US\",\"DE\",\"GB\"]",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 13,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:07:59.672 -0400",
+				"message": "Validation Warning: Dangling '?' in URL.",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 19,
+				"identifier": "LogWarning"
+			},
+		{
+				"message": "(Duration:\"34.378\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-04-01 13:07:56 -0400\", Successes:\"0\", TestCase:\"HolidaysByCountryViaAPI_v2.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 13:08:31.144 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:34 HolidaysByCountryViaAPI_v2.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-04-01 13:08:31.161 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 13:07:56.765 -0400"
+}

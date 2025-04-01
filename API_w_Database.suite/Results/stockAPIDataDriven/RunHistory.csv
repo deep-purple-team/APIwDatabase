@@ -1,0 +1,27 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2022-02-18 09:54:00.870 -0500,"Success",0:00:01,0,0,0,"20220218_095400.870/LogFile.txt","","",1
+2022-03-14 13:13:32.936 -0500,"Success",0:00:01,0,0,0,"20220314_131332.936/LogFile.txt","","",1
+2022-03-16 15:04:30.696 -0500,"Success",0:00:01,0,0,0,"20220316_150430.696/LogFile.txt","","",1
+2022-03-16 16:14:55.953 -0500,"Success",0:00:01,0,0,0,"20220316_161455.953/LogFile.txt","","",1
+2024-07-11 11:43:11.532 -0400,"Success",0:00:02,0,0,0,"20240711_114311.532/LogFile.txt","","",1
+2024-07-11 11:44:34.200 -0400,"Aborted",0:00:26,1,0,0,"20240711_114434.200/LogFile.txt","","",0
+2024-07-11 11:45:59.186 -0400,"Success",0:00:58,0,0,0,"20240711_114559.186/LogFile.txt","","",1
+2024-07-11 11:48:05.266 -0400,"Success",0:00:02,0,0,0,"20240711_114805.266/LogFile.txt","","",1
+2024-07-11 11:56:07.388 -0400,"Failure",0:00:00,1,0,0,"20240711_115607.388/LogFile.txt","","Iteration Error -- nextValue() was called with a value that doesn't support iteration",0
+2024-07-11 11:56:47.894 -0400,"Aborted",0:01:14,1,0,0,"20240711_115647.894/LogFile.txt","","",0
+2024-07-11 11:58:24.138 -0400,"Aborted",0:33:33,1,0,0,"20240711_115824.138/LogFile.txt","","",0
+2025-04-01 12:07:12.346 -0400,"Aborted",0:00:00,1,0,0,"20250401_120712.346/LogFile.txt","","",0
+2025-04-01 12:15:28.247 -0400,"Failure",0:00:00,1,0,0,"20250401_121528.247/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 12:15:58.727 -0400,"Failure",0:00:24,1,0,0,"20250401_121558.727/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 12:16:50.585 -0400,"Failure",0:00:07,1,0,0,"20250401_121650.585/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 12:17:30.456 -0400,"Failure",0:00:03,1,0,0,"20250401_121730.456/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 12:18:07.855 -0400,"Failure",0:00:03,1,0,0,"20250401_121807.855/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 12:18:26.233 -0400,"Aborted",0:00:25,1,0,0,"20250401_121826.233/LogFile.txt","","",0
+2025-04-01 12:20:30.828 -0400,"Aborted",0:00:52,1,0,0,"20250401_122030.828/LogFile.txt","","",0
+2025-04-01 12:29:31.066 -0400,"Failure",0:00:00,1,0,0,"20250401_122931.066/LogFile.txt","","WorkbookWriteError -- Error (can't open file for writing) saving workbook to file C:/ScriptRepositories/API_w_Database.suite/Resources/Tickers_db.xlsx",0
+2025-04-01 12:29:48.096 -0400,"Aborted",0:00:21,1,0,0,"20250401_122948.096/LogFile.txt","","",0
+2025-04-01 12:33:45.959 -0400,"Failure",0:00:00,1,0,0,"20250401_123345.959/LogFile.txt","","Invalid Date/Time Format -- [yyyy] is not a valid format token",0
+2025-04-01 12:34:59.370 -0400,"Aborted",0:00:24,1,0,0,"20250401_123459.370/LogFile.txt","","",0
+2025-04-01 12:36:02.373 -0400,"Success",0:00:24,0,0,0,"20250401_123602.373/LogFile.txt","","",1
+2025-04-01 12:37:08.035 -0400,"Success",0:00:01,0,0,0,"20250401_123708.035/LogFile.txt","","",1
+2025-04-01 13:21:54.136 -0400,"Success",0:00:01,0,0,0,"20250401_132154.136/LogFile.txt","","",1

@@ -1,0 +1,76 @@
+{
+	"entries": [
+		{
+				"message": "Running HolidaysByCountryViaAPI_v2.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 13:20:27.143 -0400"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:20:27.209 -0400",
+				"message": "The target date is 2024-12-26",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:20:27.225 -0400",
+				"message": "The queried country codes are [\"US\",\"DE\",\"GB\"]",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:20:30.505 -0400",
+				"message": "The call worked",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 26,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:20:30.508 -0400",
+				"message": "The date 12/26/2024 is a Hebrew holiday in United States. The holiday is Chanukah/Hanukkah (first day).",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 32,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:20:30.514 -0400",
+				"message": "The date 12/26/2024 is a Local holiday holiday in United States - Texas. The holiday is Day After Christmas Day.",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 32,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:20:30.524 -0400",
+				"message": "The date 12/26/2024 is a Local holiday holiday in United States - Kansas, North Carolina, South Carolina. The holiday is Day After Christmas Day.",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 32,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:20:30.538 -0400",
+				"message": "The date 12/26/2024 is a Observance holiday in United States. The holiday is Kwanzaa (first day).",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 32,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"16.866\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-04-01 13:20:27 -0400\", Successes:\"1\", TestCase:\"HolidaysByCountryViaAPI_v2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 13:20:44.012 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:16 HolidaysByCountryViaAPI_v2.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-04-01 13:20:44.020 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 13:20:27.145 -0400"
+}

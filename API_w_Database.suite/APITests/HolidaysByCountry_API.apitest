@@ -1,0 +1,46 @@
+{
+    URLparameters = (
+	{
+	    checkedNumber = <*BY>;
+	    param = "api_key";
+	    showCheckedNumber = <*BY>;
+	    value = 915e890793d14f84b9827d0532f086e5;
+	},
+	{
+	    checkedNumber = <*BY>;
+	    param = country;
+	    showCheckedNumber = <*BY>;
+	    value = "[[global CountryCode]]";
+	},
+	{
+	    checkedNumber = <*BY>;
+	    param = year;
+	    showCheckedNumber = <*BY>;
+	    value = "[[global Year]]";
+	},
+	{
+	    checkedNumber = <*BY>;
+	    param = month;
+	    showCheckedNumber = <*BY>;
+	    value = "[[global Month]]";
+	},
+	{
+	    checkedNumber = <*BY>;
+	    param = day;
+	    showCheckedNumber = <*BY>;
+	    value = "[[global Date]]";
+	}
+    );
+    authenticationType = None;
+    httpVerb = GET;
+    oauth1Token = "";
+    password = "";
+    requestBody = "";
+    requestBodyFormat = "Form Url Encoded";
+    requestHeaders = "<![CDATA[]]>";
+    requests = "";
+    testResults = "";
+    testScript = "";
+    url = "https://holidays.abstractapi.com/v1/?api_key=915e890793d14f84b9827d0532f086e5&country=[[global CountryCode]]&year=[[global Year]]&month=[[global Month]]&day=[[global Date]]";
+    userName = "";
+}

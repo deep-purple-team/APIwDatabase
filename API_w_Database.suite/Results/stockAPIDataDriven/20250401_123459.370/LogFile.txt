@@ -1,0 +1,4 @@
+﻿2025-04-01 12:34:59.372 -0400	START		Running stockAPIDataDriven.script
+2025-04-01 12:35:16.716 -0400	Log		{message:"Attempted to request today's data before end of day. Please upgrade your plan at https://polygon.io/pricing", request_id:"973bb4e7b164febb011ed2c743e8cb49", status:"NOT_AUTHORIZED"}	36	on_stockapidatadriven	stockAPIDataDriven.script
+2025-04-01 12:35:23.550 -0400	EndTestCase		(Duration:"24.176", Errors:"1", Exceptions:"0", StartTime:"2025-04-01 12:34:59 -0400", Successes:"0", TestCase:"stockAPIDataDriven.script", Warnings:"0")
+2025-04-01 12:35:23.557 -0400	ABORTED		Execution Time 0:00:24 stockAPIDataDriven.script

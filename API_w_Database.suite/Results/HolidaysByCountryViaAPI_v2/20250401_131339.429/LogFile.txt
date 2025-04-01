@@ -1,0 +1,6 @@
+﻿2025-04-01 13:13:39.433 -0400	START		Running HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:13:39.486 -0400	Log		The target date is 2024-12-26	6	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:13:39.508 -0400	Log		The queried country codes are ["US","DE","GB"]	13	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:13:43.552 -0400	LogWarning		The call didn't work.	47	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:13:52.382 -0400	EndTestCase		(Duration:"12.946", Errors:"1", Exceptions:"0", StartTime:"2025-04-01 13:13:39 -0400", Successes:"0", TestCase:"HolidaysByCountryViaAPI_v2.script", Warnings:"1")
+2025-04-01 13:13:52.391 -0400	ABORTED		Execution Time 0:00:12 HolidaysByCountryViaAPI_v2.script

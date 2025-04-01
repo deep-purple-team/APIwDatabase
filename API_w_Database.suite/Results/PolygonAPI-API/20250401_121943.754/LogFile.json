@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running PolygonAPI.apitest",
+				"identifier": "START",
+				"timestamp": "2025-04-01 12:19:43.756 -0400"
+			},
+		{
+				"message": "(Duration:\"0.386\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-04-01 12:19:43 -0400\", Successes:\"1\", TestCase:\"PolygonAPI.apitest\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 12:19:44.144 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:00 PolygonAPI.apitest",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-04-01 12:19:44.165 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 12:19:43.757 -0400"
+}

@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running stockAPIDataDriven.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 12:33:45.962 -0400"
+			},
+		{
+				"message": "(Duration:\"0.071\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-04-01 12:33:45 -0400\", Successes:\"0\", TestCase:\"stockAPIDataDriven.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 12:33:46.036 -0400"
+			},
+		{
+				"message": "Invalid Date/Time Format: [yyyy] is not a valid format token -- Execution Time 0:00:00 stockAPIDataDriven.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-04-01 12:33:46.060 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 12:33:45.963 -0400"
+}

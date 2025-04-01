@@ -1,0 +1,116 @@
+{
+	"entries": [
+		{
+				"message": "Running HolidaysByCountryViaAPI.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 12:49:42.563 -0400"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:49:42.591 -0400",
+				"message": "The target date is 2024-12-26",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:49:42.607 -0400",
+				"message": "The queried country codes are [\"US\",\"DE\",\"GB\"]",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:49:42.995 -0400",
+				"message": "The call worked",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 24,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:49:43.000 -0400",
+				"message": "The date 12/26/2024 is a Hebrew holiday in United States. The holiday is Chanukah/Hanukkah (first day).",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 30,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:49:43.007 -0400",
+				"message": "The date 12/26/2024 is a Local holiday holiday in United States - Texas. The holiday is Day After Christmas Day.",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 30,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:49:43.015 -0400",
+				"message": "The date 12/26/2024 is a Local holiday holiday in United States - Kansas, North Carolina, South Carolina. The holiday is Day After Christmas Day.",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 30,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:49:43.029 -0400",
+				"message": "The date 12/26/2024 is a Observance holiday in United States. The holiday is Kwanzaa (first day).",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 30,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:49:53.424 -0400",
+				"message": "The call worked",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 24,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:49:53.427 -0400",
+				"message": "The date 12/26/2024 is a National holiday in Germany. The holiday is Boxing Day.",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 30,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:50:03.821 -0400",
+				"message": "The call worked",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 24,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:50:03.824 -0400",
+				"message": "The date 12/26/2024 is a Hebrew holiday in United Kingdom. The holiday is First Day of Hanukkah.",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 30,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi",
+				"timestamp": "2025-04-01 12:50:03.850 -0400",
+				"message": "The date 12/26/2024 is a National holiday in United Kingdom. The holiday is Boxing Day.",
+				"scriptName": "HolidaysByCountryViaAPI.script",
+				"handlerLine": 30,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"31.312\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-04-01 12:49:42 -0400\", Successes:\"3\", TestCase:\"HolidaysByCountryViaAPI.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 12:50:13.879 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:31 HolidaysByCountryViaAPI.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-04-01 12:50:13.904 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 12:49:42.566 -0400"
+}

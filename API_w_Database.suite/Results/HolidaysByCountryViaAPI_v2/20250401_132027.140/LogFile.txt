@@ -1,0 +1,10 @@
+﻿2025-04-01 13:20:27.143 -0400	START		Running HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:20:27.209 -0400	Log		The target date is 2024-12-26	5	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:20:27.225 -0400	Log		The queried country codes are ["US","DE","GB"]	12	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:20:30.505 -0400	LogSuccess		The call worked	26	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:20:30.508 -0400	Log		The date 12/26/2024 is a Hebrew holiday in United States. The holiday is Chanukah/Hanukkah (first day).	32	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:20:30.514 -0400	Log		The date 12/26/2024 is a Local holiday holiday in United States - Texas. The holiday is Day After Christmas Day.	32	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:20:30.524 -0400	Log		The date 12/26/2024 is a Local holiday holiday in United States - Kansas, North Carolina, South Carolina. The holiday is Day After Christmas Day.	32	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:20:30.538 -0400	Log		The date 12/26/2024 is a Observance holiday in United States. The holiday is Kwanzaa (first day).	32	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:20:44.012 -0400	EndTestCase		(Duration:"16.866", Errors:"1", Exceptions:"0", StartTime:"2025-04-01 13:20:27 -0400", Successes:"1", TestCase:"HolidaysByCountryViaAPI_v2.script", Warnings:"0")
+2025-04-01 13:20:44.020 -0400	ABORTED		Execution Time 0:00:16 HolidaysByCountryViaAPI_v2.script

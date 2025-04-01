@@ -1,0 +1,6 @@
+﻿2025-04-01 12:36:02.377 -0400	START		Running stockAPIDataDriven.script
+2025-04-01 12:36:11.306 -0400	Log		{afterHours:153.9, close:154.64, from:"2025-03-31", high:155.54, low:150.662, open:153.11, preMarket:152.24, status:"OK", symbol:"GOOGL", volume:54479064}	36	on_stockapidatadriven	stockAPIDataDriven.script
+2025-04-01 12:36:18.983 -0400	Log		{afterHours:149.77, close:149.77, from:"2025-03-31", high:150.74, low:143.98, open:147.17, preMarket:148.5, status:"OK", symbol:"KEYS", volume:1442402}	36	on_stockapidatadriven	stockAPIDataDriven.script
+2025-04-01 12:36:25.860 -0400	Log		{afterHours:373.9936, close:375.39, from:"2025-03-31", high:377.07, low:367.24, open:372.535, preMarket:373.94, status:"OK", symbol:"MSFT", volume:35184676}	36	on_stockapidatadriven	stockAPIDataDriven.script
+2025-04-01 12:36:27.348 -0400	EndTestCase		(Duration:"24.968", Errors:"0", Exceptions:"0", StartTime:"2025-04-01 12:36:02 -0400", Successes:"1", TestCase:"stockAPIDataDriven.script", Warnings:"0")
+2025-04-01 12:36:27.376 -0400	SUCCESS		Execution Time 0:00:24 stockAPIDataDriven.script

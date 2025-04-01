@@ -1,0 +1,58 @@
+﻿put "UIo_1RtJx5xZDBTbW8msmgBRVOTBNKgA" into apiKey -- This key belongs to Dave Hester. Please replace with your own as called out in the README.doc
+
+
+put "https://api.polygon.io/v1/open-close/" into url
+
+// Create connection with Excel file or database
+
+set StocksDB to {type:"excel",file:resourcePath("Tickers_db.xlsx"),writable:yes}
+
+put the number of records of StocksDB into RecordCount
+
+put "This database contains" && RecordCount && "records."
+
+// Loop through the records and make the API call
+
+repeat RecordCount times
+	
+	// get the current record's date
+	set currentRecord to the record of StocksDB where "_pk_" = (1000 + repeatIndex()) -- _pk_ is an internal counter for the Excel primary ket beginning with 1001
+	
+	put formattedTime("[year]-[mo]-[da]",yesterday) into currentRecord.date -- this API endpoint requires dates in yyyy-mm-dd format
+	
+	put currentRecord.symbol into myTicker
+	
+	put currentRecord.date into myDate
+	
+	// Construct API GET as URL 
+	set apiQuery to url & myTicker & "/" & myDate & "?adjusted=true&apiKey=" & apiKey
+	
+	// Run the API script
+	EmptyAPI(url: apiQuery)
+	
+	put api().responseBody into apiData
+	
+	put JSONValue(api().responseBody) into apiData
+	
+	log apiData
+	
+	// Parse the JSON value
+	set closeVal to apiData.close
+	set openVal to apiData.open
+	set highVal to apiData.high
+	set lowVal to apiData.low
+	set volumeVal to apiData.volume
+	set statusVal to apiData.status
+	
+	// write back to the database
+	set currentRecord.open to openVal
+	set currentRecord.close to closeVal
+	set currentRecord.high to highVal
+	set currentRecord.low to lowVal
+	set currentRecord.volume to volumeVal
+	set currentRecord.api_response_status to statusVal
+	set currentRecord.timestamp to the long time && today's date 
+	
+end repeat
+
+

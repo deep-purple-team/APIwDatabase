@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running HolidaysByCountryViaAPI_v2.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 13:06:04.334 -0400"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:06:04.391 -0400",
+				"message": "The target date is 2024-12-26",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:06:04.406 -0400",
+				"message": "The queried country codes are [\"US\",\"DE\",\"GB\"]",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 13,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"1.953\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-04-01 13:06:04 -0400\", Successes:\"0\", TestCase:\"HolidaysByCountryViaAPI_v2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 13:06:06.289 -0400"
+			},
+		{
+				"message": "NSInvalidArgumentException: init with obj and key arrays of different sizes -- Execution Time 0:00:01 HolidaysByCountryViaAPI_v2.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-04-01 13:06:06.316 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 13:06:04.336 -0400"
+}

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="HolidaysByCountryViaAPI_v2">
+ <run>
+  <RunDate>2025-04-01 13:04:15.753 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.092000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130415.753/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>NSInvalidArgumentException -- init with obj and key arrays of different sizes</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:04:37.174 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.076000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130437.174/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>NSInvalidArgumentException -- init with obj and key arrays of different sizes</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:04:53.060 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>9.758000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130453.060/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:05:46.255 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.561000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130546.255/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>NSInvalidArgumentException -- init with obj and key arrays of different sizes</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:06:04.331 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.957000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130604.331/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>NSInvalidArgumentException -- init with obj and key arrays of different sizes</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:06:56.308 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.784000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130656.308/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>NSInvalidArgumentException -- init with obj and key arrays of different sizes</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:07:31.918 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>9.861000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130731.918/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:07:56.759 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>34.384000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130756.759/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:08:40.977 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>56.841000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130840.977/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:09:39.058 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>65.764000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_130939.058/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:11:14.304 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>62.960000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_131114.304/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:12:49.596 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>29.217000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_131249.596/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:13:39.429 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>12.951000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_131339.429/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:14:03.566 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>40.866000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_131403.566/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:19:00.242 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>23.673000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250401_131900.242/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-04-01 13:20:27.140 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>16.871000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250401_132027.140/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

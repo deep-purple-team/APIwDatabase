@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running stockAPIDataDriven.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 12:17:30.460 -0400"
+			},
+		{
+				"message": "(Duration:\"3.336\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-04-01 12:17:30 -0400\", Successes:\"0\", TestCase:\"stockAPIDataDriven.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 12:17:33.798 -0400"
+			},
+		{
+				"message": "NSInvalidArgumentException: init with obj and key arrays of different sizes -- Execution Time 0:00:03 stockAPIDataDriven.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-04-01 12:17:33.830 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 12:17:30.462 -0400"
+}

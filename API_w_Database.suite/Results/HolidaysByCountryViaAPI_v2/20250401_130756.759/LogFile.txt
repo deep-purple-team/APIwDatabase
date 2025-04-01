@@ -1,0 +1,6 @@
+﻿2025-04-01 13:07:56.763 -0400	START		Running HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:07:56.804 -0400	Log		The target date is 2024-12-26	6	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:07:56.822 -0400	Log		The queried country codes are ["US","DE","GB"]	13	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:07:59.672 -0400	LogWarning		Validation Warning: Dangling '?' in URL.	19	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:08:31.144 -0400	EndTestCase		(Duration:"34.378", Errors:"1", Exceptions:"0", StartTime:"2025-04-01 13:07:56 -0400", Successes:"0", TestCase:"HolidaysByCountryViaAPI_v2.script", Warnings:"1")
+2025-04-01 13:08:31.161 -0400	ABORTED		Execution Time 0:00:34 HolidaysByCountryViaAPI_v2.script

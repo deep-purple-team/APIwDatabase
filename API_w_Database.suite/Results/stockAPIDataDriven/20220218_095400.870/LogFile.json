@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running stockAPIDataDriven.script",
+      "timestamp" : "2022-02-18 09:54:00.873 -0500"
+    },
+    {
+      "handlerName" : "on_stockapidatadriven",
+      "message" : "{afterHours:2910.2, close:2960, from:\"2022-02-02\", high:3030.9315, low:2910.4501, open:3025, preMarket:3000, status:\"OK\", symbol:\"GOOGL\", volume:6159961}",
+      "timestamp" : "2022-02-18 09:54:01.215 -0500",
+      "identifier" : "Log",
+      "scriptName" : "stockAPIDataDriven.script",
+      "handlerLine" : 48
+    },
+    {
+      "handlerName" : "on_stockapidatadriven",
+      "message" : "{afterHours:3004.9999, close:2752.88, from:\"2022-02-01\", high:2755.855, low:2687.37, open:2751.89, preMarket:2715, status:\"OK\", symbol:\"GOOGL\", volume:3426282}",
+      "timestamp" : "2022-02-18 09:54:01.399 -0500",
+      "identifier" : "Log",
+      "scriptName" : "stockAPIDataDriven.script",
+      "handlerLine" : 48
+    },
+    {
+      "handlerName" : "on_stockapidatadriven",
+      "message" : "{afterHours:2701, close:2706.07, from:\"2022-01-31\", high:2709.46, low:2644.19, open:2683.2399, preMarket:2690, status:\"OK\", symbol:\"GOOGL\", volume:1999300}",
+      "timestamp" : "2022-02-18 09:54:01.619 -0500",
+      "identifier" : "Log",
+      "scriptName" : "stockAPIDataDriven.script",
+      "handlerLine" : 48
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.928529\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2022-02-18 09:54:00 -0500\", Successes:\"1\", TestCase:\"stockAPIDataDriven.script\", Warnings:\"0\")",
+      "timestamp" : "2022-02-18 09:54:02.803 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 stockAPIDataDriven.script",
+      "timestamp" : "2022-02-18 09:54:02.813 -0500"
+    }
+  ],
+  "createdTimestamp" : "2022-02-18 09:54:00.874 -0500"
+}

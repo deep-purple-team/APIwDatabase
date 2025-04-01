@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running HolidaysByCountryViaAPI_v2.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 13:12:49.600 -0400"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:12:49.657 -0400",
+				"message": "The target date is 2024-12-26",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:12:49.678 -0400",
+				"message": "The queried country codes are [\"US\",\"DE\",\"GB\"]",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 13,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_holidaysbycountryviaapi_v2",
+				"timestamp": "2025-04-01 13:12:53.999 -0400",
+				"message": "The call didn't work.",
+				"scriptName": "HolidaysByCountryViaAPI_v2.script",
+				"handlerLine": 47,
+				"identifier": "LogWarning"
+			},
+		{
+				"message": "(Duration:\"29.211\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-04-01 13:12:49 -0400\", Successes:\"0\", TestCase:\"HolidaysByCountryViaAPI_v2.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 13:13:18.814 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:29 HolidaysByCountryViaAPI_v2.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-04-01 13:13:18.821 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 13:12:49.602 -0400"
+}

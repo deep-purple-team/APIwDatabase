@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="HolidaysByCountryViaAPI_script" package="API_w_Database.suite" timestamp="2025-04-01 12:49:42.558 -0400"
+ tests="1"  failures="0" errors="0" time="31.320000">
+  <properties>
+   <property name="RunDate" value="2025-04-01 12:49:42.558 -0400"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="HolidaysByCountryViaAPI.script" assertions="3" status="success"  time="31.312">
+  </testcase>
+ </testsuite>
+</testsuites>

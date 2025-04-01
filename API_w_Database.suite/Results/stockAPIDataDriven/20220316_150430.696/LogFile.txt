@@ -1,0 +1,6 @@
+﻿2022-03-16 15:04:30.701 -0500	START		Running stockAPIDataDriven.script
+2022-03-16 15:04:31.306 -0500	Log		{afterHours:2910.2, close:2960, from:"2022-02-02", high:3030.9315, low:2910.4501, open:3025, preMarket:3000, status:"OK", symbol:"GOOGL", volume:6159961}	37	on_stockapidatadriven	stockAPIDataDriven.script
+2022-03-16 15:04:31.467 -0500	Log		{afterHours:3004.9999, close:2752.88, from:"2022-02-01", high:2755.855, low:2687.37, open:2751.89, preMarket:2715, status:"OK", symbol:"GOOGL", volume:3426282}	37	on_stockapidatadriven	stockAPIDataDriven.script
+2022-03-16 15:04:31.637 -0500	Log		{afterHours:2701, close:2706.07, from:"2022-01-31", high:2709.46, low:2644.19, open:2683.2399, preMarket:2690, status:"OK", symbol:"GOOGL", volume:1999300}	37	on_stockapidatadriven	stockAPIDataDriven.script
+2022-03-16 15:04:32.348 -0500	EndTestCase		(Duration:"1.643642", Errors:"0", Exceptions:"0", StartTime:"2022-03-16 15:04:30 -0500", Successes:"1", TestCase:"stockAPIDataDriven.script", Warnings:"0")
+2022-03-16 15:04:32.356 -0500	SUCCESS		Execution Time 0:00:01 stockAPIDataDriven.script

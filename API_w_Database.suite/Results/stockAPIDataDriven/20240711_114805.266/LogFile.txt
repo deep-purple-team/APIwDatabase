@@ -1,0 +1,6 @@
+﻿2024-07-11 11:48:05.326 -0400	START		Running stockAPIDataDriven.script
+2024-07-11 11:48:06.572 -0400	Log		{afterHours:191.03, close:191.18, from:"2024-07-10", high:191.75, low:189.03, open:189.15, preMarket:189.8, status:"OK", symbol:"GOOGL", volume:15569113}	37	on_stockapidatadriven	stockAPIDataDriven.script
+2024-07-11 11:48:07.162 -0400	Log		{afterHours:189.7546, close:188.98, from:"2024-07-09", high:191.36, low:188.72, open:190.31, preMarket:189.46, status:"OK", symbol:"GOOGL", volume:14847567}	37	on_stockapidatadriven	stockAPIDataDriven.script
+2024-07-11 11:48:07.876 -0400	Log		{afterHours:189.5, close:189.03, from:"2024-07-08", high:190.17, low:187.78, open:189.895, preMarket:190.9, status:"OK", symbol:"GOOGL", volume:18940210}	37	on_stockapidatadriven	stockAPIDataDriven.script
+2024-07-11 11:48:08.045 -0400	EndTestCase		(Duration:"2.66", Errors:"0", Exceptions:"0", StartTime:"2024-07-11 11:48:05 -0400", Successes:"1", TestCase:"stockAPIDataDriven.script", Warnings:"0")
+2024-07-11 11:48:08.128 -0400	SUCCESS		Execution Time 0:00:02 stockAPIDataDriven.script

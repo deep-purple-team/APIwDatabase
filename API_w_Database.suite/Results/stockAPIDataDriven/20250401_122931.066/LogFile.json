@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running stockAPIDataDriven.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 12:29:31.070 -0400"
+			},
+		{
+				"message": "(Duration:\"0.073\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-04-01 12:29:31 -0400\", Successes:\"0\", TestCase:\"stockAPIDataDriven.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 12:29:31.146 -0400"
+			},
+		{
+				"message": "WorkbookWriteError: Error (can't open file for writing) saving workbook to file C:/ScriptRepositories/API_w_Database.suite/Resources/Tickers_db.xlsx -- Execution Time 0:00:00 stockAPIDataDriven.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-04-01 12:29:31.171 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 12:29:31.072 -0400"
+}

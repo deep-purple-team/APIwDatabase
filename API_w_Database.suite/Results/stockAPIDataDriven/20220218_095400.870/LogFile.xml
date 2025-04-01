@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="stockAPIDataDriven_script" package="API_w_Database.suite" timestamp="2022-02-18 09:54:00.870 -0500"
+ tests="1"  failures="0" errors="0" time="1.932853">
+  <properties>
+   <property name="RunDate" value="2022-02-18 09:54:00.870 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="stockAPIDataDriven.script" assertions="1" status="success"  time="1.928529">
+  </testcase>
+ </testsuite>
+</testsuites>

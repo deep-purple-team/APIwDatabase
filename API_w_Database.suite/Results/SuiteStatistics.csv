@@ -1,0 +1,5 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+HolidaysByCountryViaAPI,Success,1,0,2025-04-01 12:49:42 -0400,2025-04-01 12:49:42 -0400,0:00:31
+stockAPIDataDriven,Success,18,8,2022-02-18 09:54:00 -0500,2025-04-01 13:21:54 -0400,0:00:09
+HolidaysByCountryViaAPI_v2,Failure,5,5,2025-04-01 13:04:15 -0400,2025-04-01 13:06:56 -0400,0:00:00
+PolygonAPI-API,Success,2,0,2025-04-01 12:18:54 -0400,2025-04-01 12:19:43 -0400,0:00:00

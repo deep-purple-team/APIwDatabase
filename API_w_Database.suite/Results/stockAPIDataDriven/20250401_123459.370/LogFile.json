@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running stockAPIDataDriven.script",
+				"identifier": "START",
+				"timestamp": "2025-04-01 12:34:59.372 -0400"
+			},
+		{
+				"handlerName": "on_stockapidatadriven",
+				"timestamp": "2025-04-01 12:35:16.716 -0400",
+				"message": "{message:\"Attempted to request today's data before end of day. Please upgrade your plan at https://polygon.io/pricing\", request_id:\"973bb4e7b164febb011ed2c743e8cb49\", status:\"NOT_AUTHORIZED\"}",
+				"scriptName": "stockAPIDataDriven.script",
+				"handlerLine": 36,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"24.176\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-04-01 12:34:59 -0400\", Successes:\"0\", TestCase:\"stockAPIDataDriven.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-04-01 12:35:23.550 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:24 stockAPIDataDriven.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-04-01 12:35:23.557 -0400"
+			}
+	],
+	"createdTimestamp": "2025-04-01 12:34:59.374 -0400"
+}

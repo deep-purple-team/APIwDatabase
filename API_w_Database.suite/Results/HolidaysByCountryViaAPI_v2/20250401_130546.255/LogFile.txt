@@ -1,0 +1,5 @@
+﻿2025-04-01 13:05:46.258 -0400	START		Running HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:05:46.311 -0400	Log		The target date is 2024-12-26	6	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:05:46.327 -0400	Log		The queried country codes are ["US","DE","GB"]	13	on_holidaysbycountryviaapi_v2	HolidaysByCountryViaAPI_v2.script
+2025-04-01 13:05:52.818 -0400	EndTestCase		(Duration:"6.555", Errors:"1", Exceptions:"0", StartTime:"2025-04-01 13:05:46 -0400", Successes:"0", TestCase:"HolidaysByCountryViaAPI_v2.script", Warnings:"0")
+2025-04-01 13:05:52.854 -0400	FAILURE		NSInvalidArgumentException: init with obj and key arrays of different sizes -- Execution Time 0:00:06 HolidaysByCountryViaAPI_v2.script

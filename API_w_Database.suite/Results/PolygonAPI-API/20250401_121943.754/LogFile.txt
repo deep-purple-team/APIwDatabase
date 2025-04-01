@@ -1,0 +1,3 @@
+﻿2025-04-01 12:19:43.756 -0400	START		Running PolygonAPI.apitest
+2025-04-01 12:19:44.144 -0400	EndTestCase		(Duration:"0.386", Errors:"0", Exceptions:"0", StartTime:"2025-04-01 12:19:43 -0400", Successes:"1", TestCase:"PolygonAPI.apitest", Warnings:"0")
+2025-04-01 12:19:44.165 -0400	SUCCESS		Execution Time 0:00:00 PolygonAPI.apitest

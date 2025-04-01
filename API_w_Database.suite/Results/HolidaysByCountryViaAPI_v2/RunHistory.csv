@@ -1,0 +1,17 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-04-01 13:04:15.753 -0400,"Failure",0:00:00,1,0,0,"20250401_130415.753/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 13:04:37.174 -0400,"Failure",0:00:00,1,0,0,"20250401_130437.174/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 13:04:53.060 -0400,"Aborted",0:00:09,1,0,0,"20250401_130453.060/LogFile.txt","","",0
+2025-04-01 13:05:46.255 -0400,"Failure",0:00:06,1,0,0,"20250401_130546.255/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 13:06:04.331 -0400,"Failure",0:00:01,1,0,0,"20250401_130604.331/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 13:06:56.308 -0400,"Failure",0:00:02,1,0,0,"20250401_130656.308/LogFile.txt","","NSInvalidArgumentException -- init with obj and key arrays of different sizes",0
+2025-04-01 13:07:31.918 -0400,"Aborted",0:00:09,1,2,0,"20250401_130731.918/LogFile.txt","","",0
+2025-04-01 13:07:56.759 -0400,"Aborted",0:00:34,1,1,0,"20250401_130756.759/LogFile.txt","","",0
+2025-04-01 13:08:40.977 -0400,"Aborted",0:00:56,1,1,0,"20250401_130840.977/LogFile.txt","","",0
+2025-04-01 13:09:39.058 -0400,"Aborted",0:01:05,1,1,0,"20250401_130939.058/LogFile.txt","","",0
+2025-04-01 13:11:14.304 -0400,"Aborted",0:01:02,1,1,0,"20250401_131114.304/LogFile.txt","","",0
+2025-04-01 13:12:49.596 -0400,"Aborted",0:00:29,1,1,0,"20250401_131249.596/LogFile.txt","","",0
+2025-04-01 13:13:39.429 -0400,"Aborted",0:00:12,1,1,0,"20250401_131339.429/LogFile.txt","","",0
+2025-04-01 13:14:03.566 -0400,"Aborted",0:00:40,1,1,0,"20250401_131403.566/LogFile.txt","","",0
+2025-04-01 13:19:00.242 -0400,"Aborted",0:00:23,1,1,0,"20250401_131900.242/LogFile.txt","","",0
+2025-04-01 13:20:27.140 -0400,"Aborted",0:00:16,1,0,0,"20250401_132027.140/LogFile.txt","","",1
